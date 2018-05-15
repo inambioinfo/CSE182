@@ -15,7 +15,7 @@
 | 10 | 05/03/2018 | Gene finding | [PDF](https://www.dropbox.com/s/hxhiymli7p5spp4/L10.pdf?dl=0) | |
 | 11 | 05/08/2018 |  midterm review | [2017 Midterm](https://www.dropbox.com/s/vvoqr93g86zpmrs/mt.2017.pdf?dl=0) | [Review questions](https://www.dropbox.com/s/y7pgljpjow8xf1s/NotesAndQuestions.pdf?dl=0)  | 
 | 12 | 05/10/2018 | **Midterm**  | |  | 
-|13 | 05/15/2018 | Gene finding continued | | | 
+|13 | 05/15/2018 | Gene finding continued | [PDF](https://www.dropbox.com/s/3iwy2brpitvzar3/L11-051518.pdf?dl=0) | | 
 <br><br>
 
 <br><br>
