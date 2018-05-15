@@ -13,3 +13,5 @@
 
 - [Project 4 PDF](https://www.dropbox.com/s/660fsqzakhe29ok/Project4_frameshiftindels.pdf?dl=0)
 
+- Data for project 1 and 2: [Fasta file](https://www.dropbox.com/s/fb0zgdbj45t6ov3/UP000006737.fasta?dl=0), [GO terms](http://www.geneontology.org/ontology/subsets/goslim_metagenomics.obo), [Pfam website](http://pfam.xfam.org/), [Prosite](http://prosite.expasy.org/scanprosite/), [Protein sequence analysis tools](http://www.expasy.org/tools/)
+
