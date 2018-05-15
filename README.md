@@ -27,7 +27,7 @@
 ### Grading
 
  - 50% for assignments (5 in total)
- - Students can do a project instead of the last two assignments. Projects can be done in teams of 2-3. Students must commit to a project by midterm 1. 
+ - Students can do a project instead of the last two assignments. Projects can be done in teams of 2-3. 
  - 20% for midterm
  - 30% for final 
 
@@ -49,4 +49,6 @@
 | [A1](https://github.com/vibansal/CSE182/blob/master/assignments/a1.pdf) | 04/10/2018 (midnight) | [Datafile](https://github.com/vibansal/CSE182/blob/master/assignments/datafile.txt) | 
 | [A2](assignments/A2.pdf) | 04/25/2018 (midnight) | [problem 1 sequences](assignments/p1seqs.txt), [problem 4 sequences](https://raw.githubusercontent.com/vibansal/CSE182/master/assignments/p4seqs.txt) <br> (right click to download) |
 | [A3](assignments/A3.pdf) | 05/14/2018 (midnight) | [README](assignments/A3_readme.txt) <br> [DNA database](assignments/DNA.txt) <br> [query keywords 1](assignments/queries.txt) <br> [query keywords 2](assignments/queries2.txt) |
-
+| [Projects](https://github.com/vibansal/CSE182/blob/master/projects/README.md) | 06/11/2018 |  sign up for projects by 05/18/2018  | 
+| A4 |  |  | 
+| A5 |  | | 
