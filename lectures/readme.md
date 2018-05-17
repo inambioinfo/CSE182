@@ -16,6 +16,7 @@
 | 11 | 05/08/2018 |  midterm review | [2017 Midterm](https://www.dropbox.com/s/vvoqr93g86zpmrs/mt.2017.pdf?dl=0) | [Review questions](https://www.dropbox.com/s/y7pgljpjow8xf1s/NotesAndQuestions.pdf?dl=0)  | 
 | 12 | 05/10/2018 | **Midterm**  | |  | 
 |13 | 05/15/2018 | Gene finding continued | [PDF](https://www.dropbox.com/s/3iwy2brpitvzar3/L11-051518.pdf?dl=0) | | 
+|14 | 05/17/2018 | Gene finding wrapup, Expression Matrix analysis | [PDF](https://www.dropbox.com/s/55n9lssfpcsxy8g/L12-051718.pdf?dl=0) | | 
 <br><br>
 
 <br><br>
