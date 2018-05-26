@@ -50,5 +50,5 @@
 | [A2](assignments/A2.pdf) | 04/25/2018 (midnight) | [problem 1 sequences](assignments/p1seqs.txt), [problem 4 sequences](https://raw.githubusercontent.com/vibansal/CSE182/master/assignments/p4seqs.txt) <br> (right click to download) |
 | [A3](assignments/A3.pdf) | 05/14/2018 (midnight) | [README](assignments/A3_readme.txt) <br> [DNA database](assignments/DNA.txt) <br> [query keywords 1](assignments/queries.txt) <br> [query keywords 2](assignments/queries2.txt) |
 | [Projects](https://github.com/vibansal/CSE182/blob/master/projects/README.md) | 06/11/2018 |  [sign up](https://docs.google.com/spreadsheets/d/1cN6rD9tMgd4zKkQf8wG4Ilu7k9P3kFIv-RPIu5jaj6Y/edit#gid=0) for projects this week  | 
-| [A4](assignments/A4.pdf) | 5/27/2018 (midnight) | [chrA.fasta](assignments/A4/chrA.fasta) <br>  [chrA.islands](assignments/A4/chrA.islands) <br> [chrB.fasta](assignments/A4/chrB.fasta)  | 
+| [A4](assignments/A4.pdf) | **5/29/2018 (midnight)** | [chrA.fasta](assignments/A4/chrA.fasta) <br>  [chrA.islands](assignments/A4/chrA.islands) <br> [chrB.fasta](assignments/A4/chrB.fasta)  | 
 | A5 |  | | 
