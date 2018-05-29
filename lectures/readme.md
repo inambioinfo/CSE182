@@ -18,8 +18,8 @@
 |13 | 05/15/2018 | Gene finding continued | [PDF](https://www.dropbox.com/s/3iwy2brpitvzar3/L11-051518.pdf?dl=0) | | 
 |14 | 05/17/2018 | gene finding wrapup, Expression Matrix analysis | [PDF](https://www.dropbox.com/s/55n9lssfpcsxy8g/L12-051718.pdf?dl=0) | | 
 |15 | 05/22/2018 | Supervised classification | [PDF](https://www.dropbox.com/s/irrgepc90gyevmh/L13-052218.pdf?dl=0) | | 
-|16 | 05/24/2018 | Supervised classification wrapup | [PDF](https://www.dropbox.com/s/cjz6crl48256tbe/L14-052418.pdf?dl=0) | | 
-
+|16 | 05/24/2018 | Supervised classification | [PDF](https://www.dropbox.com/s/cjz6crl48256tbe/L14-052418.pdf?dl=0) | | 
+| 17 | 05/29/2018 | Protein expression using Mass Spec. | [PDF](https://www.dropbox.com/s/ibd32r273nw8krf/ms.pdf?dl=0) | | 
 <br><br>
 
 <br><br>
