@@ -21,7 +21,7 @@
 
 - There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. References for each lecture and recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
 
-- Informal syllabus for the course is available [here](https://www.dropbox.com/s/rcpdzixvjgg6fds/syllabus_outline.pdf?dl=0)
+- Outline of the syllabus for the course is available [here](https://www.dropbox.com/s/v6ovkcdvm9fwb6f/syllabus.pdf?dl=0)
 
 
 ### Grading
