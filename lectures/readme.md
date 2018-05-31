@@ -20,7 +20,11 @@
 |15 | 05/22/2018 | Supervised classification | [PDF](https://www.dropbox.com/s/irrgepc90gyevmh/L13-052218.pdf?dl=0) | | 
 |16 | 05/24/2018 | Supervised classification | [PDF](https://www.dropbox.com/s/cjz6crl48256tbe/L14-052418.pdf?dl=0) | | 
 | 17 | 05/29/2018 | Protein expression using Mass Spec. | [PDF](https://www.dropbox.com/s/ibd32r273nw8krf/ms.pdf?dl=0) | | 
+| 18 | 05/31/2018 | Protein expression wrapup | [PDF](https://www.dropbox.com/s/e9v796t0004tjwh/L16-053118.pdf?dl=0) | | 
+
 <br><br>
+
+
 
 <br><br>
 Podcast of the CSE 182 section taught by Professor Vineet Bafna is [available](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4722). 
