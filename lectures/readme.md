@@ -22,7 +22,7 @@
 | 17 | 05/29/2018 | Protein expression using Mass Spec. | [PDF](https://www.dropbox.com/s/ibd32r273nw8krf/ms.pdf?dl=0) | | 
 | 18 | 05/31/2018 | Protein expression wrapup | [PDF](https://www.dropbox.com/s/e9v796t0004tjwh/L16-053118.pdf?dl=0) | | 
 | 19 | 06/05/2018 | Project presentations| | | 
-| 20 | 06/07/2018 | Review for final exam | [last year's final](https://www.dropbox.com/s/psbbv6jm016ttcm/final.2017.2.pdf?dl=0) | | 
+| 20 | 06/07/2018 | Review for final exam | | | 
 
 
 <br><br>
